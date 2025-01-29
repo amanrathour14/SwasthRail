@@ -23,7 +23,7 @@ SwasthRail is a comprehensive smart technology platform designed for Indian rail
 - **Blockchain**: For securing data
 
 ## System Architecture
-
+![System Architecture diagram](https://github.com/amanrathour14/SwasthRail/blob/6d05003e78513d29b359c388165adc92794901e8/Architecture%20diagram.png)
 
 ## Team Contributions
 
