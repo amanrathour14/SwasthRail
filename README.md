@@ -53,4 +53,10 @@ SwasthRail is a comprehensive smart technology platform designed for Indian rail
 4. Setup database (if needed):  
    Ensure SQL or MongoDB is running and configured correctly.
 
+## Languages Used
+
+- ![#e34c26](https://img.shields.io/badge/HTML-0.5%25-orange) **HTML** 0.5%
+- ![#563d7c](https://img.shields.io/badge/CSS-7.9%25-purple) **CSS** 7.9%
+
+
 ---
